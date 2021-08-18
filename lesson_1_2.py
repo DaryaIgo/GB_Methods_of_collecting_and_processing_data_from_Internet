@@ -12,7 +12,7 @@ import requests
 auth_params = {
     'key': '4a476b77ed0a26e096aacb6ba2dffb34',
     #в целях безопасности не публикую токен
-    'token': "toker"
+    'token': "token"
 }
 
 url_main = "https://api.trello.com/1/{}"
